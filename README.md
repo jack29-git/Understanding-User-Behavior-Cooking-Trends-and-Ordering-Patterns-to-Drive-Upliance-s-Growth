@@ -52,7 +52,6 @@ The following technologies and tools were employed for this project:
     - Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`
 - **Jupyter Notebook**: For interactive coding and analysis.
 - **Microsoft Excel**: For initial data review and basic manipulations.
-- **Power BI/Tableau**: For creating interactive dashboards and visualizing insights.
 - **GitHub**: For version control and collaborative work.
 
 ---
@@ -76,7 +75,7 @@ There is a positive correlation between the frequency of cooking sessions and th
 Spaghetti and Grilled Chicken are the top-selling dishes, contributing significantly to overall sales.
 
 **Strategies to Leverage This Insight**:  
-1. **Increase Revenue**: Feature these dishes prominently on the menu, offer them as daily specials, or create combo meals.  
+1. **Increase Revenue**: Feature these dishes prominently on the menu, offer them as daily specials, or create combo meals. 
 2. **Attract New Customers**: Market these dishes as signature items in promotional campaigns.  
 3. **Enhance Customer Satisfaction**: Ensure consistent quality and presentation.
 
