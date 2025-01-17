@@ -1,4 +1,4 @@
-# Upliance.ai Data Analytics Intern Assignment
+# Understanding User Behavior, Cooking Trends, and Ordering Patterns to Drive Upliance's Growth
 
 ## Table of Contents
 1. Objective
